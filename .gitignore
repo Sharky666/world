@@ -1,5 +1,9 @@
-*
-
-!/src/game.ts
-!/src/race.ts
-!/src/creature.ts
+node_modules
+resources
+www
+config.xml
+ionic.config.json
+tsconfig.json
+tslint.json
+.vscode
+.sourcemaps
